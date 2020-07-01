@@ -2,10 +2,10 @@
 
 - title: home
   url: /
-# - title: questions
-#   url: /questions/
-# - title: words
-#   url: /words/
+- title: research
+  url: /research/
+- title: words
+  url: /words/
 # - title: Tags
 #   url: /tags/
 # - title: Recipes

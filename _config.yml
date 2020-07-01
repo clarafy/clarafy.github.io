@@ -35,7 +35,7 @@ google_fonts:
   - name: "Josefin Slab"
     weights: "400,400i,700,700i"
   - name: "Roboto Slab"
-    weights: "100,100i,200,200i"
+    weights: "100,100i,300,300i"
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
