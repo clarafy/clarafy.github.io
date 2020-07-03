@@ -103,8 +103,8 @@ author:
       icon:
 
 # Footer Links
-# footer_links: false
-#   - title: "Twitter" 
+# footer_links:
+#   - title: Twitter 
 #     url: https://twitter.com/seafann
 #     icon: fab fa-twitter-square
 

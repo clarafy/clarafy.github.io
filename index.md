@@ -10,6 +10,6 @@ I am a second-year Ph.D. student in [Electrical Engineering and Computer Science
 ![no-alignment]({{ "/images/try.png" | absolute_url }})
 
 <p style="text-align: center;">
-<em>"A man can't be always defending the truth; there must be a time to feed on it."</em><br>
-C. S. Lewis, Reflections on the Psalms (1958)<br>
+"A man can't be always defending the truth; there must be a time to feed on it."<br>
+C. S. Lewis, <em>Reflections on the Psalms</em> (1958)<br>
 </p>
