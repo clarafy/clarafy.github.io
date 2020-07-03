@@ -6,7 +6,7 @@
   margin: 0 auto;
   padding-left: 1em;
   padding-right: 1em;
-  max-width: $main-sidebar-max-width;
+  max-width: $main-max-width;
 }
 
 .page-title {
@@ -281,6 +281,6 @@
 
 .page--wide {
   .page-wrapper {
-    max-width: $main-sidebar-max-width;
+    max-width: $main-max-width;
   }
 }

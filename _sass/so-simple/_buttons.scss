@@ -9,14 +9,15 @@
 .btn {
   /* default */
   display: inline-block;
-  margin-bottom: 0.25em;
-  padding: 0.5em 1em;
-  font-family: $sans-serif-font-family;
+  margin-bottom: 0.2em;
+  padding: 0em 0.5em;
+  font-family: $serif-font-family;
   font-size: 1rem;
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
   text-decoration: none;
   border-width: 0;
+  border: 1px solid $accent-color;
   border-radius: $border-radius;
   cursor: pointer;
 
