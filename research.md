@@ -9,13 +9,13 @@ title: research
 
 - Akosua Busia, George E. Dahl, **Clara Fannjiang**, David H. Alexander, Elizabeth Dorfman, Ryan Poplin, Cory Y. McLean, Pi-Chuan Chang, and Mark DePristo. A deep learning approach to pattern recognition for short DNA. 2018. [bioRxiv](https://www.biorxiv.org/content/early/2018/06/22/353474){: .btn}
 
-## refereed journals
+## journals
 
 - **Clara Fannjiang**, T. Aran Mooney, Seth Cones, David Mann, K. Alex Shorter, and Kakani Katija. 2019. Augmenting biologging with supervised machine learning to study *in situ* behavior of the medusa *Chrysaora fuscescens*. *Journal of Experimental Biology*, 222, jeb207654. [PDF](/research/jeb_2019_wsi.pdf){: .btn} [publication](https://jeb.biologists.org/content/222/16/jeb207654){: .btn} [jellyfish footage](http://movie.biologists.com/video/10.1242/jeb.207654/video-1){: .btn} [code](https://bitbucket.org/mbari/jellymove/src/master/){: .btn}
 
 - **Clara Fannjiang**. 2013. Optimal arrays for compressed sensing in snapshot-mode radio interferometry. *Astronomy & Astrophysics*, 559, A73. [PDF](/research/aa_2013.pdf){: .btn} [publication](https://www.aanda.org/articles/aa/full_html/2013/11/aa21079-13/aa21079-13.html){: .btn}
 
-## refereed conference & workshop presentations
+## conferences & workshops
 
 - David H. Brookes, Akosua Busia, **Clara Fannjiang**, Kevin Murphy, and Jennifer Listgarten. A view of estimation of distribution algorithms through the lens of expectation-maximization. To appear in GECCO 2020. [arXiv](https://arxiv.org/abs/1905.10474){: .btn}
 
