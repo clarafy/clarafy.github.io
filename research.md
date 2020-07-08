@@ -23,7 +23,7 @@ title: research
 
 - Katherine Lee, Orhan Firat, Ashish Agarwal, **Clara Fannjiang**, and David Sussillo. 2018. Hallucinations in neural machine translation. Neural Information Processing Systems (NeurIPS) Workshop on Interpretability and Robustness for Audio, Speech, and Language. [PDF](/research/neurips_irasl_2018.pdf){: .btn}
 
-- **Clara Fannjiang**, Marius Cătălin Iordan, Diane M. Beck, and Fei-Fei Li. 2015. Pushing the boundaries of fine-grained object classification with fMRI decoding in human occipito-temporal cortex. Vision Sciences Society (VSS) 15th Annual Meeting. Poster.
+- **Clara Fannjiang**, Marius Cătălin Iordan, Diane M. Beck, and Fei-Fei Li. 2015. Pushing the boundaries of fine-grained object classification with fMRI decoding in human occipito-temporal cortex. Vision Sciences Society (VSS) Annual Meeting. Poster.
 
 <figure class="align-center">
   <a href="#"><img src="{{ '/images/benthocodon_hyalinus_med.png' | absolute_url }}" alt=""></a>
