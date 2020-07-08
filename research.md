@@ -25,6 +25,8 @@ title: research
 
 - **Clara Fannjiang**, Marius Cătălin Iordan, Diane M. Beck, and Fei-Fei Li. 2015. Pushing the boundaries of fine-grained object classification with fMRI decoding in human occipito-temporal cortex. Vision Sciences Society (VSS) Annual Meeting. Poster.
 
+<br>
+
 <figure class="align-center">
   <a href="#"><img src="{{ '/images/benthocodon_hyalinus_med.png' | absolute_url }}" alt=""></a>
   <figcaption><em>Benthocodon hyalinus</em>, after photo by K. Raskoff in <a href="https://www.frontiersin.org/articles/10.3389/fmars.2019.00798/full">Matsumoto et al. (2020)</a>.</figcaption>
