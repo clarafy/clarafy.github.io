@@ -17,7 +17,7 @@ title: research
 
 ## conferences & workshops
 
-- David H. Brookes, Akosua Busia, **Clara Fannjiang**, Kevin Murphy, and Jennifer Listgarten. A view of estimation of distribution algorithms through the lens of expectation-maximization. To appear in GECCO 2020. [arXiv](https://arxiv.org/abs/1905.10474){: .btn}
+- David H. Brookes, Akosua Busia, **Clara Fannjiang**, Kevin Murphy, and Jennifer Listgarten. 2020. A view of estimation of distribution algorithms through the lens of expectation-maximization. *GECCO*. [proceedings](https://dl.acm.org/doi/10.1145/3377929.3389938){: .btn} [arXiv (extended version)](https://arxiv.org/abs/1905.10474){: .btn}
 
 - Ivan Masmitja, Spartacus Gomariz, Joaquin Del Rio, Brian Kieft, Tom O'Reilly, Jacobo Aguzzi, Pierre-Jean Bouvet, **Clara Fannjiang**, and Kakani Katija. 2019. Area-only method for underwater object tracking using autonomous vehicles. IEEE OCEANS. [PDF](/research/oceans_2019.pdf){: .btn} [publication](https://ieeexplore.ieee.org/document/8867277){: .btn}
 
