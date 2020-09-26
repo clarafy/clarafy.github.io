@@ -1,8 +1,6 @@
 ---
 layout: page
 title: research
-image: 
-  path: /images/jeb_fig1_cut.png
 ---
 
 ## preprints
