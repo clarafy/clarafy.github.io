@@ -11,7 +11,7 @@ image:
 
 ## journals & CS conferences
 
-- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. 2020. To appear in Neural Information Processing Systems (NeurIPS) 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn}
+- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. 2020. To appear in NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn}
 
 - **Clara Fannjiang**, T. Aran Mooney, Seth Cones, David Mann, K. Alex Shorter, and Kakani Katija. 2019. Augmenting biologging with supervised machine learning to study *in situ* behavior of the medusa *Chrysaora fuscescens*. *Journal of Experimental Biology*, 222, jeb207654. [PDF](/research/jeb_2019_wsi.pdf){: .btn} [publication](https://jeb.biologists.org/content/222/16/jeb207654){: .btn} [jellyfish footage](http://movie.biologists.com/video/10.1242/jeb.207654/video-1){: .btn} [code](https://bitbucket.org/mbari/jellymove/src/master/){: .btn}
 
@@ -19,13 +19,13 @@ image:
 
 ## workshops & other conferences
 
-- David H. Brookes, Akosua Busia, **Clara Fannjiang**, Kevin Murphy, and Jennifer Listgarten. 2020. A view of estimation of distribution algorithms through the lens of expectation-maximization. GECCO. [proceedings](https://dl.acm.org/doi/10.1145/3377929.3389938){: .btn} [arXiv (extended version)](https://arxiv.org/abs/1905.10474){: .btn}
+- David H. Brookes, Akosua Busia, **Clara Fannjiang**, Kevin Murphy, and Jennifer Listgarten. A view of estimation of distribution algorithms through the lens of expectation-maximization. GECCO 2020. [proceedings](https://dl.acm.org/doi/10.1145/3377929.3389938){: .btn} [arXiv (extended version)](https://arxiv.org/abs/1905.10474){: .btn}
 
-- Ivan Masmitja, Spartacus Gomariz, Joaquin Del Rio, Brian Kieft, Tom O'Reilly, Jacobo Aguzzi, Pierre-Jean Bouvet, **Clara Fannjiang**, and Kakani Katija. 2019. Area-only method for underwater object tracking using autonomous vehicles. IEEE OCEANS. [PDF](/research/oceans_2019.pdf){: .btn} [publication](https://ieeexplore.ieee.org/document/8867277){: .btn}
+- Ivan Masmitja, Spartacus Gomariz, Joaquin Del Rio, Brian Kieft, Tom O'Reilly, Jacobo Aguzzi, Pierre-Jean Bouvet, **Clara Fannjiang**, and Kakani Katija. Area-only method for underwater object tracking using autonomous vehicles. IEEE OCEANS 2019. [PDF](/research/oceans_2019.pdf){: .btn} [publication](https://ieeexplore.ieee.org/document/8867277){: .btn}
 
-- Katherine Lee, Orhan Firat, Ashish Agarwal, **Clara Fannjiang**, and David Sussillo. 2018. Hallucinations in neural machine translation. Neural Information Processing Systems (NeurIPS) Workshop on Interpretability and Robustness for Audio, Speech, and Language. [PDF](/research/neurips_irasl_2018.pdf){: .btn}
+- Katherine Lee, Orhan Firat, Ashish Agarwal, **Clara Fannjiang**, and David Sussillo. Hallucinations in neural machine translation. NeurIPS 2018 Workshop on Interpretability and Robustness for Audio, Speech, and Language. [PDF](/research/neurips_irasl_2018.pdf){: .btn}
 
-- **Clara Fannjiang**, Marius Cătălin Iordan, Diane M. Beck, and Fei-Fei Li. 2015. Pushing the boundaries of fine-grained object classification with fMRI decoding in human occipito-temporal cortex. Vision Sciences Society (VSS) Annual Meeting. Poster.
+- **Clara Fannjiang**, Marius Cătălin Iordan, Diane M. Beck, and Fei-Fei Li. Pushing the boundaries of fine-grained object classification with fMRI decoding in human occipito-temporal cortex. VSS 2015.
 
 <br>
 
