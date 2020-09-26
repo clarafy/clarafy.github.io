@@ -11,7 +11,7 @@ image:
 
 ## journals & CS conferences
 
-- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. 2020. To appear in NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn}
+- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. To appear in NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn}
 
 - **Clara Fannjiang**, T. Aran Mooney, Seth Cones, David Mann, K. Alex Shorter, and Kakani Katija. 2019. Augmenting biologging with supervised machine learning to study *in situ* behavior of the medusa *Chrysaora fuscescens*. *Journal of Experimental Biology*, 222, jeb207654. [PDF](/research/jeb_2019_wsi.pdf){: .btn} [publication](https://jeb.biologists.org/content/222/16/jeb207654){: .btn} [jellyfish footage](http://movie.biologists.com/video/10.1242/jeb.207654/video-1){: .btn} [code](https://bitbucket.org/mbari/jellymove/src/master/){: .btn}
 
