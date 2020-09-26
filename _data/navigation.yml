@@ -6,8 +6,8 @@
   url: /research/
 - title: writing
   url: /writing/
-- title: blog
-  url: /posts/
+# - title: blog
+#   url: /posts/
 # - title: Recipes
 #   url: /recipes/
 # - title: Search
