@@ -10,9 +10,3 @@ When I consider the heart of why I do research, I always feel more like a biolog
 <br>
 
 ![center-aligned-image](/images/nightlight_small.png){: .align-center}
-
-<p style="text-align: center;">
-"Go toward the light always, be without ships."<br>
-Carolyn Forché, <a href="https://www.newyorker.com/magazine/2010/05/03/the-lightkeeper"><em>The Lightkeeper</em></a> (2010)<br>
-</p>
-
