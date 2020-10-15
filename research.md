@@ -3,7 +3,7 @@ layout: page
 title: research
 ---
 
-I am currently working on methods for data-driven design&mdash;the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned purely from data. I also maintain interests in compressed sensing, and applications of machine learning for exploring life in our last great frontier, the ocean.
+I am currently working on methods for *data-driven design*:the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned purely from data. I also maintain interests in compressed sensing, and applications of machine learning for exploring life in our last great frontier, the ocean.
 
 ## preprints
 
