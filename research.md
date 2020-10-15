@@ -3,6 +3,8 @@ layout: page
 title: research
 ---
 
+I am currently working on methods for data-driven design&mdash;the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned purely from data. I also maintain interests in compressed sensing, and applications of machine learning for exploring life in our last great frontier, the ocean.
+
 ## preprints
 
 - Akosua Busia, George E. Dahl, **Clara Fannjiang**, David H. Alexander, Elizabeth Dorfman, Ryan Poplin, Cory Y. McLean, Pi-Chuan Chang, and Mark DePristo. A deep learning approach to pattern recognition for short DNA. [bioRxiv](https://www.biorxiv.org/content/early/2018/06/22/353474){: .btn}
