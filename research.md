@@ -23,12 +23,6 @@ title: research
 
 - **Clara Fannjiang**. 2013. Optimal arrays for compressed sensing in snapshot-mode radio interferometry. *Astronomy & Astrophysics*, 559, A73. [PDF](/research/aa_2013.pdf){: .btn} [publication](https://www.aanda.org/articles/aa/full_html/2013/11/aa21079-13/aa21079-13.html){: .btn}
 
-## other conferences
-
-- Ivan Masmitja, Spartacus Gomariz, Joaquin Del Rio, Brian Kieft, Tom O'Reilly, Jacobo Aguzzi, Pierre-Jean Bouvet, **Clara Fannjiang**, and Kakani Katija. Area-only method for underwater object tracking using autonomous vehicles. IEEE OCEANS 2019. [PDF](/research/oceans_2019.pdf){: .btn} [publication](https://ieeexplore.ieee.org/document/8867277){: .btn}
-
-- **Clara Fannjiang**, Marius Cătălin Iordan, Diane M. Beck, and Fei-Fei Li. Pushing the boundaries of fine-grained object classification with fMRI decoding in human occipito-temporal cortex. VSS 2015.
-
 <br>
 
 <figure class="align-center">
