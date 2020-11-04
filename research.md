@@ -3,7 +3,7 @@ layout: page
 title: research
 ---
 
-I am currently working on machine learning methods for *data-driven design*: the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned purely from data. How can we leverage generative and predictive modeling for this goal, and how does that look different from traditional uses of these technologies?
+I am currently working on machine learning methods for *data-driven design*: the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned purely from data. How can we leverage generative and predictive modeling for this goal, and how does that look different from traditional uses of these technologies? To this end, I am also interested in
 
 I also maintain an interest in applications of machine learning for exploring life in our last great frontier, the ocean.
 
@@ -15,7 +15,7 @@ I also maintain an interest in applications of machine learning for exploring li
 
 ## refereed conferences
 
-- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. To appear in NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [code](https://github.com/clarafy/autofocused-oracles)
+- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. To appear in NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn}
 
 - David H. Brookes, Akosua Busia, **Clara Fannjiang**, Kevin Murphy, and Jennifer Listgarten. A view of estimation of distribution algorithms through the lens of expectation-maximization. GECCO 2020. [proceedings](https://dl.acm.org/doi/10.1145/3377929.3389938){: .btn} [arXiv (extended version)](https://arxiv.org/abs/1905.10474){: .btn}
 
