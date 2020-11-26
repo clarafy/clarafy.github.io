@@ -23,7 +23,7 @@ I also maintain an interest in applications of machine learning for exploring li
 
 ## journals
 
-- I. Masmitja, J. Navarro, S. Gomariz,  J. Aguzzi, B. Kieft, T. O’Reilly, K. Katija, P. J. Bouvet, **C. Fannjiang**, M. Vigo, P. Puig, A. Alcocer, G. Vallicrosa, N. Palomeras, M. Carreras, J. Del-Rio, J. B. Company. Mobile robotic platforms for the acoustic tracking of deep-sea demersal fishery resources. To appear in *Science Robotics*.
+- I. Masmitja, J. Navarro, S. Gomariz,  J. Aguzzi, B. Kieft, T. O’Reilly, K. Katija, P. J. Bouvet, **C. Fannjiang**, M. Vigo, P. Puig, A. Alcocer, G. Vallicrosa, N. Palomeras, M. Carreras, J. Del-Rio, J. B. Company. 2020. Mobile robotic platforms for the acoustic tracking of deep-sea demersal fishery resources. *Science Robotics*, Vol. 5, Issue 48, eabc3701. [PDF](/research/scirob_2020.pdf){: .btn} [publication](https://robotics.sciencemag.org/content/5/48/eabc3701){: .btn}
 
 - **Clara Fannjiang**, T. Aran Mooney, Seth Cones, David Mann, K. Alex Shorter, and Kakani Katija. 2019. Augmenting biologging with supervised machine learning to study *in situ* behavior of the medusa *Chrysaora fuscescens*. *Journal of Experimental Biology*, 222, jeb207654. [PDF](/research/jeb_2019_wsi.pdf){: .btn} [publication](https://jeb.biologists.org/content/222/16/jeb207654){: .btn} [jellyfish footage](http://movie.biologists.com/video/10.1242/jeb.207654/video-1){: .btn} [code](https://bitbucket.org/mbari/jellymove/src/master/){: .btn}
 
