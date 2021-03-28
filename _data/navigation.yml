@@ -6,10 +6,10 @@
   url: /research/
 - title: writing
   url: /writing/
+- title: blog
+  url: /posts/
 - title: cv
   url: /cv/cv.pdf
-# - title: blog
-#   url: /posts/
 # - title: Recipes
 #   url: /recipes/
 # - title: Search
