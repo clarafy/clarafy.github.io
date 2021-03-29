@@ -17,7 +17,7 @@ I also maintain an interest in applications of machine learning for exploring li
 
 - Ghassen Jerfel\*, Serena Wang\*, **Clara Fannjiang**, Katherine Heller, Yian Ma, Michael Jordan. Variational refinement for importance sampling using the forward Kullback-Leibler divergence. Advances in Approximate Bayesian Inference (AABI) 2021.
 
-- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [pre-proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn}
+- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn}
 
 - David H. Brookes, Akosua Busia, **Clara Fannjiang**, Kevin Murphy, and Jennifer Listgarten. A view of estimation of distribution algorithms through the lens of expectation-maximization. GECCO 2020. [proceedings](https://dl.acm.org/doi/10.1145/3377929.3389938){: .btn} [arXiv (extended version)](https://arxiv.org/abs/1905.10474){: .btn}
 
