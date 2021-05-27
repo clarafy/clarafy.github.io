@@ -21,6 +21,8 @@ I also maintain an interest in applications of machine learning for exploring li
 
 - David H. Brookes, Akosua Busia, **Clara Fannjiang**, Kevin Murphy, and Jennifer Listgarten. A view of estimation of distribution algorithms through the lens of expectation-maximization. GECCO 2020. [proceedings](https://dl.acm.org/doi/10.1145/3377929.3389938){: .btn} [arXiv (extended version)](https://arxiv.org/abs/1905.10474){: .btn}
 
+## workshops
+
 - Katherine Lee, Orhan Firat, Ashish Agarwal, **Clara Fannjiang**, and David Sussillo. Hallucinations in neural machine translation. NeurIPS 2018 Workshop on Interpretability and Robustness for Audio, Speech, and Language. [PDF](/research/neurips_irasl_2018.pdf){: .btn}
 
 ## journals
