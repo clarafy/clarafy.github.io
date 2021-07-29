@@ -15,7 +15,7 @@ I also maintain an interest in applications of machine learning for exploring li
 
 ## refereed conferences
 
-- Ghassen Jerfel\*, Serena Wang\*, **Clara Fannjiang**, Katherine Heller, Yian Ma, Michael Jordan. Variational refinement for importance sampling using the forward Kullback-Leibler divergence. UAI 2021.
+- Ghassen Jerfel\*, Serena Wang\*, **Clara Fannjiang**, Katherine Heller, Yian Ma, Michael Jordan. Variational refinement for importance sampling using the forward Kullback-Leibler divergence. UAI 2021. [arXiv](https://arxiv.org/abs/2106.15980){: .btn}
 
 - **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn}
 
