@@ -3,13 +3,13 @@ layout: page
 title: research
 ---
 
-I currently work on machine learning methods for *data-driven design*, the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned purely from data. How should we leverage generative and predictive modeling for this goal, and how does that differ from traditional uses of these technologies? I am particularly interested in these questions as they apply to the design of proteins with improved functions.
+I currently work on machine learning methods for *data-driven design*, the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned purely from data. How should we leverage generative and predictive modeling for this goal, and how does that differ from traditional uses of these technologies? I am particularly interested in these questions as they apply to the design of proteins with improved fitness.
 
 I also maintain an interest in applications of machine learning for exploring life in our last great frontier, the ocean.
 
 ## preprints
 
-- Chloe Hsu, Hunter Nisonoff, **Clara Fannjiang**, Jennifer Listgarten. A systematic assessment of methods for combining evolutionary and assay-labelled data for protein fitness prediction. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.28.437402v1){: .btn}
+- Chloe Hsu, Hunter Nisonoff, **Clara Fannjiang**, Jennifer Listgarten. A systematic assessment of methods for combining evolutionary and assay-labelled data for protein fitness prediction. accepted at *Nature Biotechnlogy*. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.28.437402v1){: .btn}
 
 - Akosua Busia, George E. Dahl, **Clara Fannjiang**, David H. Alexander, Elizabeth Dorfman, Ryan Poplin, Cory Y. McLean, Pi-Chuan Chang, and Mark DePristo. A deep learning approach to pattern recognition for short DNA. [bioRxiv](https://www.biorxiv.org/content/early/2018/06/22/353474){: .btn}
 
