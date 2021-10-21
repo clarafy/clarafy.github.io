@@ -3,7 +3,7 @@ layout: page
 title: research
 ---
 
-I currently work on machine learning methods for *data-driven design*, the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned purely from data. How should we leverage generative and predictive modeling for this goal, and how does that differ from traditional uses of these technologies? I am particularly interested in these questions as they apply to the design of proteins with improved fitness.
+I currently work on machine learning methods for *data-driven design*, the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned from data. How should the use of generative and predictive modeling for design differ from traditional uses of these technologies? How can we reason about and quantify uncertainty when we extrapolate? I am particularly interested in these questions as they apply to the design of proteins with improved fitness.
 
 I also maintain an interest in applications of machine learning for exploring life in our last great frontier, the ocean.
 
