@@ -9,7 +9,7 @@ I also maintain an interest in applications of machine learning for exploring li
 
 ## preprints
 
-- Danqing Zhu, David H. Brookes, Akosua Busia, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Machine learning-based library design improves packaging and diversity of adeno-associated virus (AAV) libraries. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v1)
+- Danqing Zhu, David H. Brookes, Akosua Busia, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Machine learning-based library design improves packaging and diversity of adeno-associated virus (AAV) libraries. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v1){: .btn}
 
 - Chloe Hsu, Hunter Nisonoff, **Clara Fannjiang**, and Jennifer Listgarten. Learning protein fitness models from evolutionary and assay-labelled data. accepted at *Nature Biotechnology*. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.28.437402v1){: .btn}
 
