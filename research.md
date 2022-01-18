@@ -11,8 +11,6 @@ I also maintain an interest in applications of machine learning for exploring li
 
 - Danqing Zhu, David H. Brookes, Akosua Busia, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Machine learning-based library design improves packaging and diversity of adeno-associated virus (AAV) libraries. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v1){: .btn}
 
-- Chloe Hsu, Hunter Nisonoff, **Clara Fannjiang**, and Jennifer Listgarten. Learning protein fitness models from evolutionary and assay-labelled data. accepted at *Nature Biotechnology*. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.03.28.437402v1){: .btn}
-
 - Akosua Busia, George E. Dahl, **Clara Fannjiang**, David H. Alexander, Elizabeth Dorfman, Ryan Poplin, Cory Y. McLean, Pi-Chuan Chang, and Mark DePristo. A deep learning approach to pattern recognition for short DNA. [bioRxiv](https://www.biorxiv.org/content/early/2018/06/22/353474){: .btn}
 
 ## refereed conferences
@@ -28,6 +26,8 @@ I also maintain an interest in applications of machine learning for exploring li
 - Katherine Lee, Orhan Firat, Ashish Agarwal, **Clara Fannjiang**, and David Sussillo. Hallucinations in neural machine translation. NeurIPS 2018 Workshop on Interpretability and Robustness for Audio, Speech, and Language. [PDF](/research/neurips_irasl_2018.pdf){: .btn}
 
 ## journals
+
+- Chloe Hsu, Hunter Nisonoff, **Clara Fannjiang**, and Jennifer Listgarten. 2022. Learning protein fitness models from evolutionary and assay-labelled data. *Nature Biotechnology*. [PDF](/research/nbt.pdf){: .btn} [publication](https://doi.org/10.1038/s41587-021-01146-5){: .btn}
 
 - I. Masmitja, J. Navarro, S. Gomariz,  J. Aguzzi, B. Kieft, T. O’Reilly, K. Katija, P. J. Bouvet, **C. Fannjiang**, M. Vigo, P. Puig, A. Alcocer, G. Vallicrosa, N. Palomeras, M. Carreras, J. Del-Rio, J. B. Company. 2020. Mobile robotic platforms for the acoustic tracking of deep-sea demersal fishery resources. *Science Robotics*, Vol. 5, Issue 48, eabc3701. [PDF](/research/scirob_2020.pdf){: .btn} [publication](https://robotics.sciencemag.org/content/5/48/eabc3701){: .btn}
 
