@@ -3,11 +3,13 @@ layout: page
 title: research
 ---
 
-I currently work on machine learning methods for *data-driven design*, the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned from data. How should the use of generative and predictive modeling for design differ from traditional uses of these technologies? How can we reason about and quantify uncertainty when we extrapolate? I am particularly interested in these questions as they apply to the design of proteins with improved fitness.
+I currently work on statistical learning and inference problems that arise in *data-driven design*: the design of novel objects with desired properties, such as proteins, molecules, or materials, in a way that is learned from data. How should we train predictive models to be trustworthy when used for design? How can we reason about and quantify uncertainty when we deploy design algorithms? I am particularly interested in these questions as they apply to the design of proteins with improved fitness.
 
 I also maintain an interest in applications of machine learning for exploring life in our last great frontier, the ocean.
 
 ## preprints
+
+- **Clara Fannjiang**, Stephen Bates, Anastasios Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction for the design problem. [arXiv](https://arxiv.org/abs/2202.03613){: .btn}
 
 - Danqing Zhu, David H. Brookes, Akosua Busia, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Machine learning-based library design improves packaging and diversity of adeno-associated virus (AAV) libraries. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v1){: .btn}
 
