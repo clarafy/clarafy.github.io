@@ -21,10 +21,6 @@ I also maintain an interest in applications of machine learning for exploring li
 
 - David H. Brookes, Akosua Busia, **Clara Fannjiang**, Kevin Murphy, and Jennifer Listgarten. A view of estimation of distribution algorithms through the lens of expectation-maximization. GECCO 2020. [proceedings](https://dl.acm.org/doi/10.1145/3377929.3389938){: .btn} [arXiv (extended version)](https://arxiv.org/abs/1905.10474){: .btn}
 
-## workshops
-
-- Katherine Lee, Orhan Firat, Ashish Agarwal, **Clara Fannjiang**, and David Sussillo. Hallucinations in neural machine translation. NeurIPS 2018 Workshop on Interpretability and Robustness for Audio, Speech, and Language. [PDF](/research/neurips_irasl_2018.pdf){: .btn}
-
 ## journals
 
 - Chloe Hsu, Hunter Nisonoff, **Clara Fannjiang**, and Jennifer Listgarten. 2022. Learning protein fitness models from evolutionary and assay-labelled data. *Nature Biotechnology*. [PDF](/research/nbt.pdf){: .btn} [publication](https://doi.org/10.1038/s41587-021-01146-5){: .btn}
@@ -34,6 +30,10 @@ I also maintain an interest in applications of machine learning for exploring li
 - **Clara Fannjiang**, T. Aran Mooney, Seth Cones, David Mann, K. Alex Shorter, and Kakani Katija. 2019. Augmenting biologging with supervised machine learning to study *in situ* behavior of the medusa *Chrysaora fuscescens*. *Journal of Experimental Biology*, 222, jeb207654. [PDF](/research/jeb_2019_wsi.pdf){: .btn} [publication](https://jeb.biologists.org/content/222/16/jeb207654){: .btn} [jellyfish footage](http://movie.biologists.com/video/10.1242/jeb.207654/video-1){: .btn} [code](https://bitbucket.org/mbari/jellymove/src/master/){: .btn}
 
 - **Clara Fannjiang**. 2013. Optimal arrays for compressed sensing in snapshot-mode radio interferometry. *Astronomy & Astrophysics*, 559, A73. [PDF](/research/aa_2013.pdf){: .btn} [publication](https://www.aanda.org/articles/aa/full_html/2013/11/aa21079-13/aa21079-13.html){: .btn}
+
+## workshops
+
+- Katherine Lee, Orhan Firat, Ashish Agarwal, **Clara Fannjiang**, and David Sussillo. Hallucinations in neural machine translation. NeurIPS 2018 Workshop on Interpretability and Robustness for Audio, Speech, and Language. [PDF](/research/neurips_irasl_2018.pdf){: .btn}
 
 \* equal contribution
 
