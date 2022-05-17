@@ -9,5 +9,3 @@ When I consider the heart of why I do research, I always feel more like a biolog
 
 
 <br>
-
-![center-aligned-image](/images/nightlight_small.png){: .align-center}
