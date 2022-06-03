@@ -3,6 +3,8 @@ layout: page
 title: research
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=Z-2pv_wAAAAJ&hl=en){: .btn}
+
 I work on statistical learning and inference problems that arise in *data-driven design*: the design of novel objects with desired properties, such as proteins, small molecules, or materials, in a way that is learned from data. How should we train predictive models to be trustworthy when used for design? How can we reason about and quantify uncertainty when we deploy design algorithms? I am particularly interested in these questions as they apply to the design of proteins with improved fitness.
 
 I also maintain an interest in applications of machine learning for exploring life in our last great frontier, the ocean.
