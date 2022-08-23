@@ -11,7 +11,7 @@ I also maintain an interest in applications of machine learning for exploring li
 
 ## preprints
 
-- **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction for the design problem. *Proceedings of the National Academy of Sciences*, forthcoming. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn}
+- **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction for the design problem. *Proceedings of the National Academy of Sciences*, to appear. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn}
 
 - Danqing Zhu, David H. Brookes, Akosua Busia, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Machine learning-based library design improves packaging and diversity of adeno-associated virus (AAV) libraries. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v1){: .btn}
 
