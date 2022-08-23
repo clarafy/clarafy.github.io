@@ -3,7 +3,7 @@ layout: page
 title: research
 ---
 
-I work on statistical learning and inference problems that arise in *data-driven design*: the design of novel objects with desired properties, such as proteins, small molecules, or materials, in a way that is learned from data. How should we train predictive models to be trustworthy when used for design? How can we reason about and quantify uncertainty when we deploy design algorithms? I am particularly interested in these questions as they apply to the design of proteins with improved fitness.
+I work on statistical learning and inference problems that arise in *data-driven design*: the design of novel objects with desired properties, such as proteins, small molecules, or materials, in a way that is learned from data. How should we train predictive models to be trustworthy when used for design? How can we reason about and quantify uncertainty when we deploy design algorithms? I am particularly interested in these questions in the context of protein design.
 
 I also maintain an interest in applications of machine learning for exploring life in our last great frontier, the ocean.
 
@@ -11,7 +11,7 @@ I also maintain an interest in applications of machine learning for exploring li
 
 ## preprints
 
-- **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction for the design problem. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn}
+- **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction for the design problem. *Proceedings of the National Academy of Sciences*, forthcoming. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn}
 
 - Danqing Zhu, David H. Brookes, Akosua Busia, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Machine learning-based library design improves packaging and diversity of adeno-associated virus (AAV) libraries. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v1){: .btn}
 
