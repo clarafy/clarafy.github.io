@@ -16,11 +16,11 @@ I can be reached at **clarafy at berkeley dot edu**.
 
 - **Clara Fannjiang**, T. Aran Mooney, Seth Cones, David Mann, K. Alex Shorter, and Kakani Katija. 2019. Augmenting biologging with supervised machine learning to study *in situ* behavior of the medusa *Chrysaora fuscescens*. *Journal of Experimental Biology*, 222, jeb207654. [PDF](/research/jeb_2019_wsi.pdf){: .btn} [publication](https://jeb.biologists.org/content/222/16/jeb207654){: .btn} [jellyfish footage](http://movie.biologists.com/video/10.1242/jeb.207654/video-1){: .btn} [code](https://bitbucket.org/mbari/jellymove/src/master/){: .btn}
 
-## recent and upcoming invited talks
+## recent and upcoming talks
 
-- *Conformal prediction for the design problem*. Machine Learning for Protein Engineering Seminar, October 18, 2022.
+- *Conformal prediction for the design problem*. [Machine Learning for Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/), October 18, 2022.
 
-- *Conformal prediction for the design problem*. AIDD Summer School on Advanced Machine Learning for Drug Discovery, May 13, 2022. [program](https://www.idsia.ch/idsia_en/highlights/events/2022/2022-05-7.html){: .btn}
+- *Conformal prediction for the design problem*. [AIDD Summer School on Advanced Machine Learning for Drug Discovery](https://www.idsia.ch/idsia_en/highlights/events/2022/2022-05-7.html), May 13, 2022.
 
 This website was built using Michael Rose's [So Simple Jekyll theme](https://github.com/mmistakes/so-simple-theme).
 
