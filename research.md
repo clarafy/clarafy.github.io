@@ -11,7 +11,7 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 
 ## preprints
 
-- Danqing Zhu, David H. Brookes, Akosua Busia, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v3){: .btn} [bibtex](/bibtex/zhu2022optimal.bib){: .btn}
+- Danqing Zhu\*, David H. Brookes\*, Akosua Busia\*, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v3){: .btn} [bibtex](/bibtex/zhu2022optimal.bib){: .btn}
 
 ## refereed conferences
 
