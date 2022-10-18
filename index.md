@@ -10,7 +10,7 @@ I can be reached at **clarafy at berkeley dot edu**.
 
 ## select recent work
 
-- **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction for the design problem. *Proceedings of the National Academy of Sciences*, to appear. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn}
+- **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction for the design problem. *Proceedings of the National Academy of Sciences*, 119(43), e2204569119. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [publication](https://www.pnas.org/doi/10.1073/pnas.2204569119){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn}
 
 - **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn} [bibtex](/bibtex/fannjiang2020autofocused.bib){: .btn}
 
