@@ -6,7 +6,7 @@ I am a fifth-year Ph.D. candidate in [Electrical Engineering and Computer Scienc
 
 Beyond research, I am an avid hiker, religious fan of artistic gymnastics, and proud mom to an extraordinary son.
 
-I can be reached at **clarafy at berkeley dot edu**.
+My email is **clarafy at berkeley dot edu**. Please reach out if you would like to chat!
 
 ## select recent work
 
