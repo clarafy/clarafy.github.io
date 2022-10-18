@@ -23,7 +23,7 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 
 ## journals
 
-- **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction for the design problem. *Proceedings of the National Academy of Sciences*, 119(43), e2204569119. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [publication](https://www.pnas.org/doi/10.1073/pnas.2204569119){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn}
+- **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction under feedback covariate shift for biomolecular design. *Proceedings of the National Academy of Sciences*, 119(43), e2204569119. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [publication](https://www.pnas.org/doi/10.1073/pnas.2204569119){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn}
 
 - Chloe Hsu, Hunter Nisonoff, **Clara Fannjiang**, and Jennifer Listgarten. 2022. Learning protein fitness models from evolutionary and assay-labelled data. *Nature Biotechnology*. [PDF](/research/nbt.pdf){: .btn} [publication](https://doi.org/10.1038/s41587-021-01146-5){: .btn} [bibtex](/bibtex/hsu2022learning.bib){: .btn}
 
