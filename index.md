@@ -20,7 +20,7 @@ My email is **clarafy at berkeley dot edu**. Please reach out if you would like 
 
 - *Conformal prediction for biomolecular design*. [EPFL Physics of Living Systems Seminar Series](https://pols.epfl.ch/physics-of-living-systems-seminars/pols-data-seminar-series/), November 18, 2022.
 
-- *Conformal prediction for the design problem*. [Machine Learning for Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/), October 18, 2022.
+- *Conformal prediction for the design problem*. [Machine Learning for Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/), October 18, 2022. [recording](https://www.youtube.com/watch?v=AOyDjBSQjhk)
 
 - *Conformal prediction for the design problem*. [AIDD Summer School on Advanced Machine Learning for Drug Discovery](https://www.idsia.ch/idsia_en/highlights/events/2022/2022-05-7.html), May 13, 2022.
 
