@@ -10,7 +10,7 @@ My email is **clarafy at berkeley dot edu**. Please reach out if you would like 
 
 ## select recent work
 
-- **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction under feedback covariate shift for biomolecular design. *Proceedings of the National Academy of Sciences*, 119(43), e2204569119. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [publication](https://www.pnas.org/doi/10.1073/pnas.2204569119){: .btn} [PDF](/research/pnas_2022.pdf){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn}
+- **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction under feedback covariate shift for biomolecular design. *Proceedings of the National Academy of Sciences*, 119(43), e2204569119. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [publication](https://www.pnas.org/doi/10.1073/pnas.2204569119){: .btn} [PDF](/research/pnas_2022.pdf){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn} [talk](https://www.youtube.com/watch?v=AOyDjBSQjhk){: .btn}
 
 - **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn} [bibtex](/bibtex/fannjiang2020autofocused.bib){: .btn}
 
@@ -20,7 +20,7 @@ My email is **clarafy at berkeley dot edu**. Please reach out if you would like 
 
 - *Conformal prediction for biomolecular design*. [EPFL Physics of Living Systems Seminar Series](https://pols.epfl.ch/physics-of-living-systems-seminars/pols-data-seminar-series/), November 18, 2022.
 
-- *Conformal prediction for the design problem*. [Machine Learning for Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/), October 18, 2022. [recording](https://www.youtube.com/watch?v=AOyDjBSQjhk)
+- *Conformal prediction for the design problem*. [Machine Learning for Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/), October 18, 2022. [recording](https://www.youtube.com/watch?v=AOyDjBSQjhk){: .btn}
 
 - *Conformal prediction for the design problem*. [AIDD Summer School on Advanced Machine Learning for Drug Discovery](https://www.idsia.ch/idsia_en/highlights/events/2022/2022-05-7.html), May 13, 2022.
 
