@@ -15,7 +15,7 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 
 ## refereed conferences
 
-- Ghassen Jerfel\*, Serena Wang\*, **Clara Fannjiang**, Katherine Heller, Yian Ma, Michael Jordan. Variational refinement for importance sampling using the forward Kullback-Leibler divergence. UAI 2021. [arXiv](https://arxiv.org/abs/2106.15980){: .btn} [proceedings](https://proceedings.mlr.press/v161/jerfel21a.html){: .btn} [bibtex](/bibtex/jerfel2021variational.bib){: .btn}
+<!-- - Ghassen Jerfel\*, Serena Wang\*, **Clara Fannjiang**, Katherine Heller, Yian Ma, Michael Jordan. Variational refinement for importance sampling using the forward Kullback-Leibler divergence. UAI 2021. [arXiv](https://arxiv.org/abs/2106.15980){: .btn} [proceedings](https://proceedings.mlr.press/v161/jerfel21a.html){: .btn} [bibtex](/bibtex/jerfel2021variational.bib){: .btn} -->
 
 - **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn} [bibtex](/bibtex/fannjiang2020autofocused.bib){: .btn}
 
