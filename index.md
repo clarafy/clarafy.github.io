@@ -22,7 +22,7 @@ My email is **clarafy at berkeley dot edu**. Please reach out if you would like 
 
 - **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn} [bibtex](/bibtex/fannjiang2020autofocused.bib){: .btn}
 
-($$\alpha$$-$$\beta$$) denotes alphabetical ordering
+($$\alpha$$-$$\beta$$) denotes alphabetical ordering.
 
 ## recent and upcoming talks
 

@@ -14,6 +14,9 @@ I also maintain an interest in machine learning methods for exploring life in ou
 
 Some highlighted work is below. See [Google Scholar](https://scholar.google.com/citations?user=Z-2pv_wAAAAJ&hl=en){: .btn} for a complete record.
 
+\* denotes equal contribution.
+($$\alpha$$-$$\beta$$) denotes alphabetical ordering.
+
 ## preprints
 
 - ($$\alpha$$-$$\beta$$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. Prediction-powered inference. 2023. [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/prediction-powered-inference){: .btn}
@@ -34,9 +37,6 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 
 - **Clara Fannjiang**. 2013. Optimal arrays for compressed sensing in snapshot-mode radio interferometry. *Astronomy & Astrophysics*, 559, A73. [PDF](/research/aa_2013.pdf){: .btn} [publication](https://www.aanda.org/articles/aa/full_html/2013/11/aa21079-13/aa21079-13.html){: .btn} [bibtex](/bibtex/fannjiang2013optimal.bib){: .btn}
 
-\* denotes equal contribution
-
-($$\alpha$$-$$\beta$$) denotes alphabetical ordering
 
 <br>
 
