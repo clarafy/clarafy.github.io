@@ -2,6 +2,11 @@
 layout: page
 ---
 
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 I am a fifth-year Ph.D. candidate in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu) at UC Berkeley, advised by [Jennifer Listgarten](http://www.jennifer.listgarten.com/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). I am a member of [BAIR](https://bair.berkeley.edu/) and work on statistical learning and inference methods for engineering biological systems. Prior to Berkeley, I was a Google AI Resident and also conducted marine biologging fieldwork with [Kakani Katija](https://www.mbari.org/katija-kakani/) at the [Monterey Bay Aquarium Research Insitute](https://www.mbari.org/). I received my B.S. in [Computer Science](https://cs.stanford.edu/) in 2016 from Stanford University, where I was fortunate to work with [Marius Cătălin Iordan](http://www.princeton.edu/~miordan/), [Fei-Fei Li](http://vision.stanford.edu/feifeili/), and [Stephen Boyd](http://stanford.edu/~boyd). My work is generously supported by an NSF Graduate Research Fellowship.
 
 Beyond research, I am an avid hiker, religious fan of artistic gymnastics, and proud mom to an extraordinary son.

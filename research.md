@@ -3,6 +3,11 @@ layout: page
 title: research
 ---
 
+<script
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+  type="text/javascript">
+</script>
+
 I work on statistical learning and inference problems that arise in *data-driven design*: the design of novel objects with desired properties, such as proteins or small molecules, in a way that is learned from data. How can we quantify uncertainty or estimate risk when we deploy design algorithms? How can we understand the inductive biases of generative models used for design? I am particularly interested in these questions in the context of protein engineering.
 
 I also maintain an interest in machine learning methods for exploring life in our last great frontier, the ocean.
@@ -11,7 +16,7 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 
 ## preprints
 
-- ($\alpha$-$\beta$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. Prediction-powered inference. 2023. [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/prediction-powered-inference){: .btn}
+- ($$\alpha$$-$$\beta$$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. Prediction-powered inference. 2023. [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/prediction-powered-inference){: .btn}
 
 - Danqing Zhu\*, David H. Brookes\*, Akosua Busia\*, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy. 2021. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v3){: .btn} [bibtex](/bibtex/zhu2022optimal.bib){: .btn}
 
