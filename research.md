@@ -31,7 +31,7 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 
 \* denotes equal contribution
 
-($\alpha$-$\beta$) denotes alphabetical ordering
+($$\alpha$$-$$\beta$$) denotes alphabetical ordering
 
 <br>
 

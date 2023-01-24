@@ -10,14 +10,14 @@ My email is **clarafy at berkeley dot edu**. Please reach out if you would like 
 
 ## select recent work
 
-- ($\alpha$-$\beta$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. Prediction-powered inference. 2023. [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/prediction-powered-inference){: .btn}
+- ($$\alpha$$-$$\beta$$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. Prediction-powered inference. 2023. [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/prediction-powered-inference){: .btn}
 
 - **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction under feedback covariate shift for biomolecular design. *Proceedings of the National Academy of Sciences*, 119(43), e2204569119. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [publication](https://www.pnas.org/doi/10.1073/pnas.2204569119){: .btn} [PDF](/research/pnas_2022.pdf){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn} [talk](https://www.youtube.com/watch?v=AOyDjBSQjhk){: .btn}  
 <!-- Proteins and other biomolecules are being designed today based on predictive models of fitness. We develop a method for uncertainty quantification for the predictions for these designed objects, which have finite-sample guarantees of statistical validity for any fitness model and any design algorithm. -->
 
 - **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn} [bibtex](/bibtex/fannjiang2020autofocused.bib){: .btn}
 
-($\alpha$-$\beta$) denotes alphabetical ordering
+($$\alpha$$-$$\beta$$) denotes alphabetical ordering
 
 ## recent and upcoming talks
 
