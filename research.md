@@ -11,7 +11,9 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 
 ## preprints
 
-- Danqing Zhu\*, David H. Brookes\*, Akosua Busia\*, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v3){: .btn} [bibtex](/bibtex/zhu2022optimal.bib){: .btn}
+- ($\alpha$-$\beta$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. Prediction-powered inference. 2023. [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/prediction-powered-inference){: .btn}
+
+- Danqing Zhu\*, David H. Brookes\*, Akosua Busia\*, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy. 2021. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v3){: .btn} [bibtex](/bibtex/zhu2022optimal.bib){: .btn}
 
 ## refereed conferences
 
@@ -27,7 +29,9 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 
 - **Clara Fannjiang**. 2013. Optimal arrays for compressed sensing in snapshot-mode radio interferometry. *Astronomy & Astrophysics*, 559, A73. [PDF](/research/aa_2013.pdf){: .btn} [publication](https://www.aanda.org/articles/aa/full_html/2013/11/aa21079-13/aa21079-13.html){: .btn} [bibtex](/bibtex/fannjiang2013optimal.bib){: .btn}
 
-\* equal contribution
+\* denotes equal contribution
+
+($\alpha$-$\beta$) denotes alphabetical ordering
 
 <br>
 
