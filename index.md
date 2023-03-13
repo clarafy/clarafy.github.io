@@ -27,6 +27,8 @@ My email is **clarafy at berkeley dot edu**. Please reach out if you would like 
 
 ## recent and upcoming talks
 
+- *Prediction-powered inference and design*. [UK Microbiology Society Annual Conference](https://microbiologysociety.org/event/annual-conference/annual-conference-2023.html), April 23, 2023.
+
 - *Conformal prediction for biomolecular design*. [EPFL Physics of Living Systems Seminar Series](https://pols.epfl.ch/physics-of-living-systems-seminars/pols-data-seminar-series/), November 18, 2022.
 
 - *Conformal prediction for the design problem*. [Machine Learning for Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/), October 18, 2022. [recording](https://www.youtube.com/watch?v=AOyDjBSQjhk){: .btn}
