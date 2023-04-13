@@ -8,7 +8,7 @@ title: research
   type="text/javascript">
 </script>
 
-I work on machine learning and statistical inference problems that arise in *data-driven design*: the design of novel objects with desired properties, such as proteins or small molecules, in a way that is learned from data. How can we quantify uncertainty or estimate risk when we deploy design algorithms? How can we understand the inductive biases of generative models used for design? I am particularly interested in these questions in the context of protein engineering.
+I work on machine learning and statistical methods for *data-driven design*: the design of novel objects with desired properties, such as proteins or small molecules, in a way that is learned from data. How can we quantify uncertainty or estimate risk when we deploy design algorithms? How can we understand the inductive biases of generative models used for design? I am particularly interested in these questions in the context of protein engineering.
 
 I also maintain an interest in machine learning methods for exploring life in our last great frontier, the ocean.
 
@@ -17,21 +17,13 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 \* denotes equal contribution.
 ($$\alpha$$-$$\beta$$) denotes alphabetical ordering.
 
-## preprints
-
 - ($$\alpha$$-$$\beta$$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. Prediction-powered inference. 2023. [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/prediction-powered-inference){: .btn}
-
-- Danqing Zhu\*, David H. Brookes\*, Akosua Busia\*, Ana Carneiro, **Clara Fannjiang**, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, and David V. Schaffer. Optimal trade-off control in machine learning-based library design, with application to adeno-associated virus (AAV) for gene therapy. 2021. [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.02.467003v3){: .btn} [bibtex](/bibtex/zhu2022optimal.bib){: .btn}
-
-## refereed conferences
-
-- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn} [bibtex](/bibtex/fannjiang2020autofocused.bib){: .btn}
-
-## journals
 
 - **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction under feedback covariate shift for biomolecular design. *Proceedings of the National Academy of Sciences*, 119(43), e2204569119. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [publication](https://www.pnas.org/doi/10.1073/pnas.2204569119){: .btn} [PDF](/research/pnas_2022.pdf){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn} [talk](https://www.youtube.com/watch?v=AOyDjBSQjhk){: .btn}
 
 - Chloe Hsu, Hunter Nisonoff, **Clara Fannjiang**, and Jennifer Listgarten. 2022. Learning protein fitness models from evolutionary and assay-labelled data. *Nature Biotechnology*, 40, 1114–1122. [PDF](/research/nbt.pdf){: .btn} [publication](https://doi.org/10.1038/s41587-021-01146-5){: .btn} [bibtex](/bibtex/hsu2022learning.bib){: .btn}
+
+- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn} [bibtex](/bibtex/fannjiang2020autofocused.bib){: .btn}
 
 - **Clara Fannjiang**, T. Aran Mooney, Seth Cones, David Mann, K. Alex Shorter, and Kakani Katija. 2019. Augmenting biologging with supervised machine learning to study *in situ* behavior of the medusa *Chrysaora fuscescens*. *Journal of Experimental Biology*, 222, jeb207654. [PDF](/research/jeb_2019_wsi.pdf){: .btn} [publication](https://jeb.biologists.org/content/222/16/jeb207654){: .btn} [jellyfish footage](http://movie.biologists.com/video/10.1242/jeb.207654/video-1){: .btn} [code](https://bitbucket.org/mbari/jellymove/src/master/){: .btn} [bibtex](/bibtex/fannjiang2019augmenting.bib){: .btn}
 
