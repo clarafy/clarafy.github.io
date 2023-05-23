@@ -35,8 +35,6 @@ My email is **clarafy at berkeley dot edu**. Please reach out if you would like 
 
 - *Conformal prediction for the design problem*. [Machine Learning for Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/), October 18, 2022. [recording](https://www.youtube.com/watch?v=AOyDjBSQjhk){: .btn}
 
-- *Conformal prediction for the design problem*. [AIDD Summer School on Advanced Machine Learning for Drug Discovery](https://www.idsia.ch/idsia_en/highlights/events/2022/2022-05-7.html), May 13, 2022.
-
 This website was built using Michael Rose's [So Simple Jekyll theme](https://github.com/mmistakes/so-simple-theme).
 
 <br>
