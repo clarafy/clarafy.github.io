@@ -7,11 +7,11 @@ layout: page
   type="text/javascript">
 </script>
 
-I am a final-year Ph.D. candidate in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu) at UC Berkeley, advised by [Jennifer Listgarten](http://www.jennifer.listgarten.com/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). I am a member of [BAIR](https://bair.berkeley.edu/) and work on statistical and machine learning methods for engineering biological systems. Prior to Berkeley, I was a Google AI Resident and also conducted marine biologging fieldwork with [Kakani Katija](https://www.mbari.org/katija-kakani/) at the [Monterey Bay Aquarium Research Insitute](https://www.mbari.org/). I received my B.S. in [Computer Science](https://cs.stanford.edu/) in 2016 from Stanford University, where I was fortunate to work with [Marius Cătălin Iordan](http://www.princeton.edu/~miordan/), [Fei-Fei Li](http://vision.stanford.edu/feifeili/), and [Stephen Boyd](http://stanford.edu/~boyd). My work was generously supported by an NSF Graduate Research Fellowship.
+I am a machine learning scientist at Genentech, Prescient Frontier Research. I work on methods for trustworthy scientific inquiry using machine learning, particularly in the context of drug discovery. I received my Ph.D. in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu) from UC Berkeley in August 2023, advised by [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) and [Jennifer Listgarten](http://www.jennifer.listgarten.com/). My work was generously supported by an NSF Graduate Research Fellowship. Prior to Berkeley, I was a Google AI Resident and also conducted marine biologging fieldwork with [Kakani Katija](https://www.mbari.org/katija-kakani/) at the [Monterey Bay Aquarium Research Insitute](https://www.mbari.org/). I received my B.S. in [Computer Science](https://cs.stanford.edu/) in 2016 from Stanford University. 
 
 Beyond research, I am an avid hiker, religious fan of artistic gymnastics, and proud mom to an extraordinary son.
 
-My email is **clarafy at berkeley dot edu**. Please reach out if you would like to chat!
+My email is **clarafy at berkeley dot edu**. Please reach out if you would like to chat!a
 
 ## select recent work
 
@@ -21,9 +21,6 @@ My email is **clarafy at berkeley dot edu**. Please reach out if you would like 
 
 - **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction under feedback covariate shift for biomolecular design. *Proceedings of the National Academy of Sciences*, 119(43), e2204569119. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [publication](https://www.pnas.org/doi/10.1073/pnas.2204569119){: .btn} [PDF](/research/pnas_2022.pdf){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn} [talk](https://www.youtube.com/watch?v=AOyDjBSQjhk){: .btn}  
 <!-- Proteins and other biomolecules are being designed today based on predictive models of fitness. We develop a method for uncertainty quantification for the predictions for these designed objects, which have finite-sample guarantees of statistical validity for any fitness model and any design algorithm. -->
-
-- **Clara Fannjiang** and Jennifer Listgarten. Autofocused oracles for model-based design. NeurIPS 2020. [arXiv](https://arxiv.org/abs/2006.08052){: .btn} [proceedings](https://papers.nips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html){: .btn} [code](https://github.com/clarafy/autofocused-oracles){: .btn} [bibtex](/bibtex/fannjiang2020autofocused.bib){: .btn}
-
 
 ## recent and upcoming talks
 
