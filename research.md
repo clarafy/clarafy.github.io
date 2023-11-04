@@ -10,14 +10,13 @@ title: research
 
 I work on machine learning and statistical methods for *data-driven design*: the design of novel objects with desired properties, such as proteins or small molecules, in a way that is learned from data. How can we quantify uncertainty or estimate risk when we deploy design algorithms? How can we understand the inductive biases of generative models used for design? I am particularly interested in these questions in the context of protein engineering.
 
-I also maintain an interest in machine learning methods for exploring life in our last great frontier, the ocean.
 
 Some highlighted work is below. See [Google Scholar](https://scholar.google.com/citations?user=Z-2pv_wAAAAJ&hl=en){: .btn} for a complete record.
 
 \* denotes equal contribution.
 ($$\alpha$$-$$\beta$$) denotes alphabetical ordering.
 
-- ($$\alpha$$-$$\beta$$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. Prediction-powered inference. 2023. [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/prediction-powered-inference){: .btn}
+- ($$\alpha$$-$$\beta$$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. Prediction-powered inference. 2023. [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/ppi_py){: .btn}
 
 - **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction under feedback covariate shift for biomolecular design. *Proceedings of the National Academy of Sciences*, 119(43), e2204569119. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [publication](https://www.pnas.org/doi/10.1073/pnas.2204569119){: .btn} [PDF](/research/pnas_2022.pdf){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn} [talk](https://www.youtube.com/watch?v=AOyDjBSQjhk){: .btn}
 
@@ -30,10 +29,10 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 - **Clara Fannjiang**. 2013. Optimal arrays for compressed sensing in snapshot-mode radio interferometry. *Astronomy & Astrophysics*, 559, A73. [PDF](/research/aa_2013.pdf){: .btn} [publication](https://www.aanda.org/articles/aa/full_html/2013/11/aa21079-13/aa21079-13.html){: .btn} [bibtex](/bibtex/fannjiang2013optimal.bib){: .btn}
 
 
-<br>
+<!-- <br>
 
 <figure class="align-center">
   <a href="#"><img src="{{ '/images/benthocodon_hyalinus_med.png' | absolute_url }}" alt=""></a>
   <figcaption><em>Benthocodon hyalinus</em>, after photo by K. Raskoff in <a href="https://www.frontiersin.org/articles/10.3389/fmars.2019.00798/full">Matsumoto et al. (2020)</a>.</figcaption>
-</figure> 
+</figure>  -->
 
