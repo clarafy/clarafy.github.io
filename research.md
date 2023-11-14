@@ -16,7 +16,7 @@ Some highlighted work is below. See [Google Scholar](https://scholar.google.com/
 \* denotes equal contribution.
 ($$\alpha$$-$$\beta$$) denotes alphabetical ordering.
 
-- ($$\alpha$$-$$\beta$$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. Prediction-powered inference. 2023. [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/ppi_py){: .btn}
+- ($$\alpha$$-$$\beta$$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. 2023. Prediction-powered inference. *Science*, 382, 669-674. [publication](https://www.science.org/doi/10.1126/science.adi6000){: .btn} [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/ppi_py){: .btn} [talk](https://www.youtube.com/watch?v=TlFpVpFx7JY){: .btn}
 
 - **Clara Fannjiang**, Stephen Bates, Anastasios N. Angelopoulos, Jennifer Listgarten, and Michael I. Jordan. 2022. Conformal prediction under feedback covariate shift for biomolecular design. *Proceedings of the National Academy of Sciences*, 119(43), e2204569119. [arXiv](https://arxiv.org/abs/2202.03613){: .btn} [publication](https://www.pnas.org/doi/10.1073/pnas.2204569119){: .btn} [PDF](/research/pnas_2022.pdf){: .btn} [code](https://github.com/clarafy/conformal-for-design){: .btn} [bibtex](/bibtex/fannjiang2022conformal.bib){: .btn} [talk](https://www.youtube.com/watch?v=AOyDjBSQjhk){: .btn}
 
