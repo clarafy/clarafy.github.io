@@ -8,13 +8,16 @@ title: research
   type="text/javascript">
 </script>
 
-I work on machine learning and statistical methods for *data-driven design*: the design of novel objects with desired properties, such as proteins or small molecules, in a way that is learned from data. How can we quantify uncertainty or estimate risk when we deploy design algorithms? How can we understand the inductive biases of generative models used for design? I am particularly interested in these questions in the context of protein engineering.
+I am broadly interested in the question of how to make trustworthy machine learning-guided scientific conclusions and decisions. My current focus is on uncertainty quantification and statistical inference methods toward this goal.
 
+<!-- the design of novel objects with desired properties, such as proteins or small molecules, in a way that is learned from data. How can we quantify uncertainty or estimate risk when we deploy design algorithms? How can we understand the inductive biases of generative models used for design? I am particularly interested in these questions in the context of protein engineering. -->
 
 Some highlighted work is below. See [Google Scholar](https://scholar.google.com/citations?user=Z-2pv_wAAAAJ&hl=en){: .btn} for a complete record.
 
 \* denotes equal contribution.
 ($$\alpha$$-$$\beta$$) denotes alphabetical ordering.
+
+- **Clara Fannjiang** and Jennifer Listgarten. 2023. Is novelty predictable? Cold Spring Harbor Perspectives in Biology. [publication](https://cshperspectives.cshlp.org/content/early/2023/12/05/cshperspect.a041469){: .btn} [arxiv](https://arxiv.org/abs/2306.00872){: .btn}
 
 - ($$\alpha$$-$$\beta$$) Anastasios N. Angelopoulos, Stephen Bates, **Clara Fannjiang**, Michael I. Jordan, and Tijana Zrnic. 2023. Prediction-powered inference. *Science*, 382, 669-674. [publication](https://www.science.org/doi/10.1126/science.adi6000){: .btn} [arXiv](https://arxiv.org/abs/2301.09633){: .btn} [code](https://github.com/aangelopoulos/ppi_py){: .btn} [talk](https://www.youtube.com/watch?v=TlFpVpFx7JY){: .btn}
 
