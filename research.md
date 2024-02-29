@@ -8,7 +8,7 @@ title: research
   type="text/javascript">
 </script>
 
-I am broadly interested in the question of how to make trustworthy machine learning-guided scientific conclusions and decisions. My current focus is on uncertainty quantification and statistical inference methods toward this goal.
+I am broadly interested in the question of how to make trustworthy machine learning-guided scientific conclusions and decisions. My current work tackles this question through the lens of uncertainty quantification and statistical inference methods.
 
 <!-- the design of novel objects with desired properties, such as proteins or small molecules, in a way that is learned from data. How can we quantify uncertainty or estimate risk when we deploy design algorithms? How can we understand the inductive biases of generative models used for design? I am particularly interested in these questions in the context of protein engineering. -->
 

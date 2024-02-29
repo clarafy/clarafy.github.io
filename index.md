@@ -7,7 +7,9 @@ layout: page
   type="text/javascript">
 </script>
 
-I am a Machine Learning Scientist at Genentech, where I am part of the Frontier Research team within Prescient Design. I work on methods for trustworthy scientific inquiry and decision-making with machine learning, through the lens of uncertainty quantification and statistical inference. I received my Ph.D. in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu) from UC Berkeley in August 2023, where I was advised by [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) and [Jennifer Listgarten](http://www.jennifer.listgarten.com/) as an NSF Graduate Research Fellow. Prior to Berkeley, I was a Google AI Resident and also conducted marine biology fieldwork with [Kakani Katija](https://www.mbari.org/katija-kakani/) at the [Monterey Bay Aquarium Research Insitute](https://www.mbari.org/). I received my B.S. in [Computer Science](https://cs.stanford.edu/) in 2016 from Stanford University. 
+I am a Senior Machine Learning Scientist at Genentech, where I am part of the Frontier Research team within Prescient Design. My research works toward trustworthy scientific inquiry and decision-making using machine learning, with a current focus on uncertainty quantification and statistical inference methods. 
+
+I received my Ph.D. in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu) from UC Berkeley in August 2023, where I was advised by [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) and [Jennifer Listgarten](http://www.jennifer.listgarten.com/) as an NSF Graduate Research Fellow. Prior to Berkeley, I was a Google AI Resident and also conducted marine biology fieldwork with [Kakani Katija](https://www.mbari.org/katija-kakani/) at the [Monterey Bay Aquarium Research Insitute](https://www.mbari.org/). I received my B.S. in [Computer Science](https://cs.stanford.edu/) in 2016 from Stanford University. 
 
 Beyond research, I am an avid hiker, religious fan of artistic gymnastics and aroids, and proud mom to an extraordinary son.
 
