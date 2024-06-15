@@ -27,30 +27,21 @@ My email is **clarafy at berkeley dot edu**. Please reach out if you would like 
 ## talks
 
 **Prediction-powered inference**
-
 - [Simons Institute Workshop on AI-Science: Strengthening the Bond Between the Sciences and AI](https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence), June 14, 2024.
-
 - [Machine Learning for Health Care and Life Sciences Workshop](https://ai.ethz.ch/details.industry-research-workshop-machine-learning-for-health-care-and-life-sciences.69673.html), [ETH AI Center](https://ai.ethz.ch/), November 30, 2023.
-
 - [Alaa Lab](https://ahmedmalaa.github.io/), [UCSF/UC Berkeley Computational Precision Health](https://computationalhealth.berkeley.edu/), September 29, 2023. [recording](https://www.youtube.com/watch?v=TlFpVpFx7JY){: .btn}
-
 - [Microbiology Society Annual Conference](https://microbiologysociety.org/event/annual-conference/annual-conference-2023.html), April 17, 2023.
 <!-- [recording](https://www.youtube.com/watch?v=FW5l5xEYETY){: .btn} -->
 
 **Conformal prediction for biomolecular design**
-
 - [EPFL Physics of Living Systems Seminar Series](https://pols.epfl.ch/physics-of-living-systems-seminars/pols-data-seminar-series/), November 18, 2022.
-
 - [Machine Learning for Protein Engineering Seminar Series](https://www.ml4proteinengineering.com/), October 18, 2022. [recording](https://www.youtube.com/watch?v=AOyDjBSQjhk){: .btn}
-
 - [AIDD Summer School on Advanced Machine Learning for Drug Disovery](https://www.idsia.ch/idsia_en/highlights/events/2022/2022-05-7.html), May 13, 2022.
 
 **Autofocused oracles for model-based design**
-
 - [Debora Marks Lab](https://www.deboramarkslab.com/), [Harvard Medical School](https://sysbio.med.harvard.edu/), August 2020.
 
 **Dissertation**
-
 - *Trustworthy scientific inquiry and design with machine learning*. UC Berkeley EECS Ph.D. Dissertation Talk, May 10, 2023. [recording (technical portion only)](https://youtu.be/Wjdusvetyhs){: .btn}
 
 This website was built using Michael Rose's [So Simple Jekyll theme](https://github.com/mmistakes/so-simple-theme).
