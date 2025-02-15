@@ -1,0 +1,12 @@
+@ARTICLE{fannjiang2019,
+  title    = "Augmenting biologging with supervised machine learning to study in
+              situ behavior of the medusa Chrysaora fuscescens",
+  author   = "Fannjiang, Clara and Mooney, T Aran and Cones, Seth and Mann,
+              David and Shorter, K Alex and Katija, Kakani",
+  journal  = "J. Exp. Biol.",
+  volume   =  222,
+  number   = "Pt 16",
+  month    =  aug,
+  year     =  2019,
+  language = "en"
+}

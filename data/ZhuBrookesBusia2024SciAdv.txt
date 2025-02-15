@@ -1,0 +1,17 @@
+@ARTICLE{zhubrookesbusia2024,
+  title    = "Optimal trade-off control in machine learning-based library
+              design, with application to adeno-associated virus ({AAV}) for
+              gene therapy",
+  author   = "Zhu, Danqing and Brookes, David H and Busia, Akosua and Carneiro,
+              Ana and Fannjiang, Clara and Popova, Galina and Shin, David and
+              Donohue, Kevin C and Lin, Li F and Miller, Zachary M and Williams,
+              Evan R and Chang, Edward F and Nowakowski, Tomasz J and
+              Listgarten, Jennifer and Schaffer, David V",
+  journal  = "Sci Adv",
+  volume   =  10,
+  number   =  4,
+  pages    = "eadj3786",
+  month    =  jan,
+  year     =  2024,
+  language = "en"
+}

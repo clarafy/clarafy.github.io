@@ -1,0 +1,12 @@
+@ARTICLE{fannjiang2023cshl,
+  title     = "Is novelty predictable?",
+  author    = "Fannjiang, Clara and Listgarten, Jennifer",
+  journal   = "Cold Spring Harb. Perspect. Biol.",
+  publisher = "Cold Spring Harbor Laboratory",
+  volume    =  16,
+  number    =  2,
+  pages     = "a041469",
+  month     =  feb,
+  year      =  2024,
+  language  = "en"
+}

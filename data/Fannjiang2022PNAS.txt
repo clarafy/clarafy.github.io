@@ -1,0 +1,13 @@
+@ARTICLE{fannjiang2022,
+  title    = "Conformal prediction under feedback covariate shift for
+              biomolecular design",
+  author   = "Fannjiang, Clara and Bates, Stephen and Angelopoulos, Anastasios N
+              and Listgarten, Jennifer and Jordan, Michael I",
+  journal  = "Proc. Natl. Acad. Sci. U. S. A.",
+  volume   =  119,
+  number   =  43,
+  pages    = "e2204569119",
+  month    =  oct,
+  year     =  2022,
+  language = "en"
+}

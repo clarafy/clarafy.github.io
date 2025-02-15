@@ -1,0 +1,13 @@
+@ARTICLE{hsu2022natbiotech,
+  title    = "Learning protein fitness models from evolutionary and
+              assay-labeled data",
+  author   = "Hsu, Chloe and Nisonoff, Hunter and Fannjiang, Clara and
+              Listgarten, Jennifer",
+  journal  = "Nat. Biotechnol.",
+  volume   =  40,
+  number   =  7,
+  pages    = "1114--1122",
+  month    =  jul,
+  year     =  2022,
+  language = "en"
+}

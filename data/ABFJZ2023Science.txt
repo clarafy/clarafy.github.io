@@ -1,0 +1,12 @@
+@ARTICLE{angelopoulos2023science,
+  title    = "Prediction-powered inference",
+  author   = "Angelopoulos, Anastasios N and Bates, Stephen and Fannjiang, Clara
+              and Jordan, Michael I and Zrnic, Tijana",
+  journal  = "Science",
+  volume   =  382,
+  number   =  6671,
+  pages    = "669--674",
+  month    =  nov,
+  year     =  2023,
+  language = "en"
+}
