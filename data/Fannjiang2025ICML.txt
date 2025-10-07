@@ -1,0 +1,7 @@
+@ARTICLE{fannjiang2025icml,
+  title={Reliable algorithm selection for machine learning-guided design}, 
+  author={Clara Fannjiang and Ji Won Park},
+  journal={arXiv:2503.20767}
+  year={2025},
+  url={https://arxiv.org/abs/2503.20767}, 
+}
