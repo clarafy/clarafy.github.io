@@ -1,7 +1,14 @@
-@ARTICLE{fannjiang2025icml,
-  title={Reliable algorithm selection for machine learning-guided design}, 
-  author={Clara Fannjiang and Ji Won Park},
-  journal={arXiv:2503.20767}
-  year={2025},
-  url={https://arxiv.org/abs/2503.20767}, 
+@InProceedings{fannjiang2025,
+  title = 	 {Reliable Algorithm Selection for Machine Learning-Guided Design},
+  author =       {Fannjiang, Clara and Park, Ji Won},
+  booktitle = 	 {Proceedings of the 42nd International Conference on Machine Learning},
+  pages = 	 {16078--16101},
+  year = 	 {2025},
+  editor = 	 {Singh, Aarti and Fazel, Maryam and Hsu, Daniel and Lacoste-Julien, Simon and Berkenkamp, Felix and Maharaj, Tegan and Wagstaff, Kiri and Zhu, Jerry},
+  volume = 	 {267},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--19 Jul},
+  publisher =    {PMLR},
+  url = 	 {https://proceedings.mlr.press/v267/fannjiang25a.html},
 }
+
