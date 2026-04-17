@@ -23,8 +23,9 @@
                   Clara Wong-Fannjiang
                 </p>
                 <p>I'm a Senior Machine Learning Scientist at Genentech in South San Francisco, where I am part of the Frontier Research team within Prescient Design.
-                  My research works toward facilitating trustworthy AI-guided scientific inquiry and decision-making, with a current focus
-                  on quantifying and managing the consequences of uncertainty in AI predictions.
+                  My research works toward trustworthy AI-guided scientific inquiry and decision-making, with a current focus
+                  on developing uncertainty quantification frameworks for problems in drug discovery. 
+                  <!-- quantifying and managing the consequences of uncertainty in AI predictions -->
                 </p>
                 <p>
                   I received my Ph.D. in Electrical Engineering and Computer Sciences from <a href="https://eecs.berkeley.edu/">UC Berkeley</a> in August 2023, where I was advised by <a href="https://people.eecs.berkeley.edu/~jordan/">Michael I. Jordan</a> and <a href="http://www.jennifer.listgarten.com/">Jennifer Listgarten</a> as an NSF Graduate Research Fellow.
@@ -55,8 +56,11 @@
                 <h2>Research</h2>
                 <p>
                   I am broadly interested in the question of how to make trustworthy machine learning-guided scientific conclusions and decisions.
-                  My current work tackles this question through the lens of uncertainty quantification methods, and is particularly motivated by problems in drug discovery and clinical decision-making.
-                  Some highlighted work is below, where (&alpha;-&beta;) denotes alphabetical ordering and * denotes equal contribution.
+                  How can we make reliable decisions&mdash;such as designing proteins with desired properties, drawing conclusions from clinical trials, or selecting which experiments to run next&mdash;based on imperfect predictions?
+                  My current work tackles this question through the lens of uncertainty quantification methods, and is often motivated by problems that arise in drug discovery.
+                </p>
+                <p>
+                  Some select work follows, where (&alpha;-&beta;) denotes alphabetical ordering and * denotes equal contribution.
                   <!-- Some papers are <span class="highlight">highlighted</span>. -->
                 </p>
               </td>
@@ -64,6 +68,34 @@
           </tbody></table>
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
+    <!-- <tr>
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <img src='images/Prinster2026-fig.png' width="220">
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <span class="papertitle">Conformal policy control</span>
+        <br>
+        <a href="https://drewprinster.github.io/">Drew Prinster</a>,
+        <strong>Clara Fannjiang</strong>,
+        <a href="https://jiwoncpark.github.io/">Ji Won Park</a>,
+        <a href="https://kyunghyuncho.me/">Kyunghyun Cho</a>,
+        <a href="https://anqiliu-ai.github.io/">Anqi Liu</a>,
+        <a href="https://suchisaria.jhu.edu/">Suchi Saria</a>, and
+        <a href="https://samuelstanton.github.io/">Samuel Stanton</a>
+        <br>
+        arXiv 2026
+        <br>
+        <a href="https://arxiv.org/abs/2603.02196">arXiv</a>
+        &middot;
+        <a href="https://github.com/samuelstanton/conformal-policy-control">code</a>
+        <p></p>
+        <p>
+        How can we ensure that an agent's actions are safe? We show how to use a known safe policy to reign in
+        a more exploratory or ``optimistic'' one, such that the modified policy is guaranteed to satisfy user-specified constraints
+        on rates of safety violations. The method builds upon conformal risk control and feedback-induced distribution shifts.
+        </p>
+      </td>
+    <tr> -->
 
     <tr>
       <td style="padding:16px;width:20%;vertical-align:middle">
@@ -75,7 +107,7 @@
         <strong>Clara Fannjiang</strong> and
         <a href="https://jiwoncpark.github.io/">Ji Won Park</a>
         <br>
-        ICML 2025, MLCB 2025 (oral)
+        ICML 2025 and MLCB 2025 (oral)
         <br>
         <a href="https://proceedings.mlr.press/v267/fannjiang25a.html">ICML (open access)</a>
         &middot;
@@ -83,12 +115,14 @@
         &middot;
         <a href="https://github.com/clarafy/design-algorithm-selection">code</a>
         &middot;
+        <a href="https://youtu.be/19I7xTh5Qb4?t=20830">talk</a>
+        &middot;
         <a href="data/Fannjiang2025ICML.txt">BibTeX</a>
         <p></p>
         <p>
         How can we anticipate whether an algorithm will be successful for a machine learning-guided design task?
-        We use prediction-powered inference techniques to reliably forecast characteristics of the distribution of designs
-        that will be produced by an algorithm, enabling the selection of algorithms that will be successful (if there are any) with high-probability guarantees.
+        We use prediction-powered inference to reliably forecast characteristics of the distribution of designs
+        that a generative algorithm will produce, enabling the selection of algorithms that will be successful (if there are any) with high-probability guarantees.
         </p>
       </td>
     </tr>
@@ -323,7 +357,9 @@
       <td style="padding:16px;width:100%;vertical-align:middle">
         <h2>Select Talks</h2>
         <p>
-          <a href="https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence">Simons Institute Workshop on AI&#8801;Science: Strengthening the Bond Between the Sciences and AI</a>, June 14, 2024 (<a href="https://www.youtube.com/watch?v=oqLq-DUEP3">recorded</a>). 
+          <a href="https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence">Machine Learning in Computational Biology Meeting</a>, September 10, 2025 (<a href="https://youtu.be/19I7xTh5Qb4?t=20830">recording</a>). 
+          <br>
+          <a href="https://simons.berkeley.edu/workshops/aiscience-strengthening-bond-between-sciences-artificial-intelligence">Simons Institute Workshop on AI&#8801;Science: Strengthening the Bond Between the Sciences and AI</a>, June 14, 2024 (<a href="https://www.youtube.com/watch?v=oqLq-DUEP3">recording</a>). 
           <br>
           <a href="https://ai.ethz.ch/details.industry-research-workshop-machine-learning-for-health-care-and-life-sciences.69673.html">Machine Learning for Health Care and Life Sciences Workshop</a>, <a href="https://ai.ethz.ch/">ETH AI Center</a>, November 30, 2023.
           <br>
@@ -333,7 +369,7 @@
           <br>
           <a href="https://pols.epfl.ch/physics-of-living-systems-seminars/pols-data-seminar-series/">EPFL Physics of Living Systems Seminar Series</a>, November 18, 2022.
           <br>
-          <a href="https://www.ml4proteinengineering.com/">Machine Learning for Protein Engineering Seminar Series</a>, October 18, 2022 (<a href="https://www.youtube.com/watch?v=AOyDjBSQjhk">recorded</a>).
+          <a href="https://www.ml4proteinengineering.com/">Machine Learning for Protein Engineering Seminar Series</a>, October 18, 2022 (<a href="https://www.youtube.com/watch?v=AOyDjBSQjhk">recording</a>).
           <br>
           <a href="https://www.idsia.ch/idsia_en/highlights/events/2022/2022-05-7.html">AIDD Summer School on Advanced Machine Learning for Drug Disovery</a>, May 13, 2022.
           <br>
